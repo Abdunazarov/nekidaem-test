@@ -17,6 +17,10 @@ python-dotenv = "^1.0.1"
 asyncpg = "^0.29.0"
 email-validator = "^2.1.0.post1"
 celery = "^5.3.6"
+pytest = "^8.0.0"
+httpz = "^1.0"
+httpx = "^0.26.0"
+pytest-asyncio = "^0.23.4"
 
 
 [build-system]
